@@ -1,6 +1,13 @@
-h1 {
+.title {
   color: red;
 }
-p {
+
+.text {
   border: 1px solid black;
+  display: inline-block;
+}
+
+.button {
+  padding: 0 20px;
+  display: block;
 }
